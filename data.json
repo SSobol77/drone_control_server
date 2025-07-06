@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password_hash": "$2b$12$Uqz1pRUOVsNujHjYoMvq4eEuLVov8RtJY7KBLQkFZC84yi/ZegvSa"
+    },
+    {
+      "id": 2,
+      "username": "operator",
+      "password_hash": "$2b$12$37NqNQExqUSOKRgyv5TqxORL6vKHeCTtIxlwEu5We.9W8zjOBUuVe"
+    }
+  ],
+  "devices": [
+    {
+      "name": "esp01",
+      "type": "box",
+      "password": "1234",
+      "status": "offline"
+    },
+    {
+      "name": "esp02",
+      "type": "station",
+      "password": "5678",
+      "status": "offline"
+    },
+    {
+      "name": "esp03",
+      "type": "box",
+      "password": "abcd",
+      "status": "offline"
+    }
+  ]
+}
